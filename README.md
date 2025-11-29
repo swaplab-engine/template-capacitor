@@ -151,6 +151,13 @@ This template runs on the SwapLab SaaS infrastructure. It is critical that you u
 
 ## ⚡ How to Build
 
+### Simple video building next.js with capacitor, step by step login process.
+
+
+
+https://github.com/user-attachments/assets/02dfeeff-f6f6-483b-acab-122a881e190c
+
+
 
 You can use these templates directly with the SwapLab Service.
 
