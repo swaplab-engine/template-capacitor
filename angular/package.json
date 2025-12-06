@@ -1,0 +1,70 @@
+{
+  "name": "swaplab-angular-template",
+  "version": "2.0.1",
+  "private": true,
+  "description": "Secure Angular 21 Capacitor Template for SwapLab 2025",
+  "scripts": {
+    "ng": "ng",
+    "build": "ng build",
+    "watch": "ng build --watch --configuration development",
+    "test": "ng test",
+    "lint": "ng lint",
+    "sync": "npx cap sync"
+  },
+  "dependencies": {
+    "@angular/animations": "^21.0.0",
+    "@angular/common": "^21.0.0",
+    "@angular/compiler": "^21.0.0",
+    "@angular/core": "^21.0.0",
+    "@angular/forms": "^21.0.0",
+    "@angular/platform-browser": "^21.0.0",
+    "@angular/platform-browser-dynamic": "^21.0.0",
+    "@angular/router": "^21.0.0",
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/app": "^7.0.0",
+    "@capacitor/core": "^7.0.0",
+    "@capacitor/ios": "^7.0.0",
+    "@capacitor/preferences": "^7.0.0",
+    "@ionic/angular": "^8.0.0",
+    "ionicons": "^7.2.0",
+    "rxjs": "~7.8.1",
+    "tslib": "^2.6.2",
+    "zone.js": "~0.15.0"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^21.0.0",
+    "@angular-eslint/builder": "21.0.0",
+    "@angular-eslint/eslint-plugin": "21.0.0",
+    "@angular-eslint/eslint-plugin-template": "21.0.0",
+    "@angular-eslint/template-parser": "21.0.0",
+    "@angular/cli": "^21.0.0",
+    "@angular/compiler-cli": "^21.0.0",
+    "@angular/language-service": "^21.0.0",
+    "@capacitor/assets": "^3.0.0",
+    "@capacitor/cli": "^7.0.0",
+    "@ionic/angular-toolkit": "^11.0.0",
+    "@types/jasmine": "~5.1.0",
+    "@types/node": "^22.0.0",
+    "@typescript-eslint/eslint-plugin": "^8.0.0",
+    "@typescript-eslint/parser": "^8.0.0",
+    "eslint": "^9.0.0",
+    "jasmine-core": "~5.1.0",
+    "karma": "~6.4.0",
+    "karma-chrome-launcher": "~3.2.0",
+    "karma-coverage": "~2.2.0",
+    "karma-jasmine": "~5.1.0",
+    "karma-jasmine-html-reporter": "~2.1.0",
+    "typescript": "~5.9.0"
+  },
+  "browserslist": [
+    "last 1 Chrome version",
+    "last 1 Firefox version",
+    "last 1 Edge version",
+    "last 1 Safari version",
+    "last 1 iOS version"
+  ],
+  "overrides": {
+    "vite": "^6.0.0",
+    "esbuild": "^0.25.0"
+  }
+}

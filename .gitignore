@@ -1,0 +1,41 @@
+# --- Dependencies ---
+node_modules
+/.pnp
+.pnp.js
+
+# --- Testing ---
+coverage/
+
+# --- Production Build Outputs (All Frameworks) ---
+dist/
+dist-ssr/
+out/          # Next.js Static Export
+.next/        # Next.js Build
+build/        # React standard build
+www/          # Ionic/Angular/Cordova build
+
+# --- Security & Environment (CRITICAL) ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- Capacitor / Native Platforms ---
+android/
+ios/
+
+
+# --- IDE & System Files ---
+*.DS_Store
+.idea
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+thumbs.db
