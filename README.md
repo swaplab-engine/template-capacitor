@@ -45,6 +45,14 @@ We offer a **Free Tier** (Unlimited Debug builds) and **Paid Tiers** (Release bu
 | **Export Android Studio/Xcode** | 🎁 **Free PROMO** (Ends Jan 1, 2026) |
 
 
+> [!TIP]
+> **🛡️ Security & Trial Options (Zero-Trust)**
+>
+> If you are hesitant about uploading your **Keystore/Signing Keys** to a cloud service, you have a safe alternative:
+> * **Local Signing:** Choose **`Export Android Studio`** or **`Export Xcode`** as your build type. We will compile the native project structure for you, and you can sign the final app locally on your own machine.
+> * **Plugin Devs & Testing:** Use **`Debug APK`** (Unlimited/Free). It requires no keys and is perfect for testing **Capacitor/Cordova plugins** or evaluating the service without a subscription.
+
+
 ---
 
 ## 🖥️ Advanced: Bring Your Own Runner (VPS)
