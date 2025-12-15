@@ -8,9 +8,43 @@ This repository hosts a curated collection of production-ready starter templates
 
 We have modernized, sanitized, and pre-configured these popular community templates to ensure they work seamlessly with the [SwapLab Build Service](https://swaplab.net).
 
+
+
 ---
 
-## ⚠️ CRITICAL: Privacy & Billing Guide
+## ⚡ Quick Start: Try Without Signing In (Public)
+
+Want to test if this works immediately? You don't need an account or a GitHub repository to start. Use our **Public Builder** for a secure, anonymous test drive.
+
+### [🚀 Go to Public Builder (public.swaplab.net)](https://public.swaplab.net)
+
+* **🛡️ No Sign-In Required:** We don't ask for your GitHub account or email.
+* **📦 Unlimited Plugins:** Supports **ANY** Capacitor Plugin or NPM package (including custom git URLs). We do not enforce a whitelist restrictions.
+* **🔒 Zero-Retention:** Upload your Zip, get your APK, and we delete your files instantly.
+* **🤝 Transparent & Unlimited:** Builds are executed on our [Public Engine Runner](https://github.com/swaplab-engine/public-build-swaplab-engine/actions). It is fully audit-able and **does NOT consume** your personal GitHub Action minutes.
+
+**How to test these templates in 30 seconds:**
+1.  Click the green **<> Code** button above -> **Download ZIP**.
+2.  Extract the file and open the folder of the template you want (e.g., `/nextjs`).
+3.  **Zip that specific folder** and upload it to [public.swaplab.net](https://public.swaplab.net).
+
+---
+
+## 🔐 Ready for Production? Unlock Full Power (Sign-In)
+
+While the Public Builder is perfect for quick testing, the **Authenticated Dashboard** unlocks professional features required for app store publishing and advanced development.
+
+**Why Sign In?**
+* **✅ Release Builds (Signed APK/AAB):** Securely inject your Keystore to generate production-ready binaries signed and ready for the Google Play Store.
+* **🛠️ Export Android Studio Project:** Download the fully generated native Android source code. Perfect if you want to inspect the code or compile locally.
+* **🍎 Export Xcode Project:** Download the complete native iOS source code to compile on your Mac using Xcode (Essential for Apple App Store publishing).
+
+### [👉 Go to Main Dashboard (swaplab.net)](https://swaplab.net)
+
+---
+
+
+## ⚠️ (Sign-In) CRITICAL: Privacy & Billing Guide
 
 Before using these templates, please read these rules to ensure your code is safe and your billing is managed correctly.
 
