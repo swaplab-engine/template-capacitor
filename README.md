@@ -28,6 +28,13 @@ Want to test if this works immediately? You don't need an account or a GitHub re
 2.  Extract the file and open the folder of the template you want (e.g., `/nextjs`).
 3.  **Zip that specific folder** and upload it to [public.swaplab.net](https://public.swaplab.net).
 
+
+## 📺 Video Tutorials
+
+Visual learner? Watch our step-by-step guides directly on YouTube.
+
+* **🎥 [Angular to Android APK: Free Public Capacitor Build + Emulator (No Sign-In)](https://youtu.be/X-gPz8twMAI)**
+
 ---
 
 ## 🔐 Ready for Production? Unlock Full Power (Sign-In)
