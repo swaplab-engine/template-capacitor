@@ -34,6 +34,9 @@ Want to test if this works immediately? You don't need an account or a GitHub re
 Visual learner? Watch our step-by-step guides directly on YouTube.
 
 * **🎥 [Angular to Android APK: Free Public Capacitor Build + Emulator (No Sign-In)](https://youtu.be/X-gPz8twMAI)**
+* **🎥 [Next.js to Android APK: Free Public Capacitor Build + Emulator (No Sign-In)](https://youtu.be/MdQQnYnHbu8)**
+* **🎥 [SolidJS to Android APK: Free Public Capacitor Build + Emulator (No Sign-In)](https://youtu.be/yUsHDSI0wfg)**
+* **🎥 [Qwik to Android APK: Free Public Capacitor Build + Emulator (No Sign-In))](https://youtu.be/2F_4uSPvCRU)**
 
 ---
 
