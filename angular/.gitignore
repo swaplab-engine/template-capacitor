@@ -5,6 +5,9 @@ node_modules
 
 # --- Testing ---
 coverage/
+www/
+.angular/
+.nx/
 
 # --- Production Build Outputs (All Frameworks) ---
 dist/
@@ -31,6 +34,8 @@ ios/
 
 # --- IDE & System Files ---
 .DS_Store
+**/.DS_Store
+*.DS_Store
 .idea
 .vscode/
 *.suo

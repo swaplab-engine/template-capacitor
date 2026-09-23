@@ -1,9 +1,5 @@
-import dynamic from 'next/dynamic';
+import AppWrapper from '../../components/AppWrapper';
 import { lists } from '../../mock';
-
-const App = dynamic(() => import('../../components/AppShell'), {
-  ssr: false,
-});
 
 export async function generateStaticParams() {
   return [
@@ -15,5 +11,5 @@ export async function generateStaticParams() {
 }
 
 export default function Page() {
-  return <App />;
+  return <AppWrapper />;
 }

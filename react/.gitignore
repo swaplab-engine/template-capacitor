@@ -2,6 +2,7 @@
 node_modules
 /.pnp
 .pnp.js
+dist/
 
 # --- Testing ---
 coverage/
@@ -31,6 +32,7 @@ ios/
 
 # --- IDE & System Files ---
 .DS_Store
+*.DS_Store
 .idea
 .vscode/
 *.suo
